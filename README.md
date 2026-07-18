@@ -27,6 +27,11 @@ I specialize in bridging modern frontend experiences (Next.js/React) with robust
 
 ### 💼 Selected Projects (Professional Work)
 
+#### 🔐 TransferSafe | Bitcoin Digital Asset Escrow
+*   **Challenge:** Building a custodial Bitcoin escrow marketplace for secure digital asset transactions with strict transactional integrity.
+*   **Solution:** Architected a robust Node.js backend integrated with a Bitcoin Core node and a custom HD Wallet for secure, automated escrow release mechanisms.
+*   **Tech:** Next.js 15, Node.js (Express), Prisma, PostgreSQL, Bitcoin Core. [Live Site](https://trans.appogealtechlabs.com)
+
 #### 🎮 GNG Platform | Lead Full-Stack Engineer
 *   **Challenge:** Synchronizing real-time match states and automating prize disbursements for a competitive wagering platform.
 *   **Solution:** Built a real-time event system using Firebase and engineered a multi-chain wallet handler (Solana/TRON) for automated "sweep" jobs and payouts.
@@ -48,6 +53,8 @@ I specialize in bridging modern frontend experiences (Next.js/React) with robust
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elanwalton&theme=radical)
 
 ![Elan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elanwalton&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elanwalton&layout=compact&theme=radical&hide_border=true)
 
 ---
 
