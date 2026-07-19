@@ -1,64 +1,131 @@
-# 👋 Hello, I'm Elan Musonye
+<!-- HEADER -->
+<div align="center">
 
-**Full-Stack Software Engineer | Web3 & Fintech Specialist**  
-*Building high-performance, secure, and scalable digital architectures.*
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ██████╗ ██╗      ██████╗  ██████╗██╗  ██╗ ██████╗██╗  ██╗     ║
+║  ██╔══██╗██║     ██╔═══██╗██╔════╝██║ ██╔╝██╔════╝██║  ██║     ║
+║  ██████╔╝██║     ██║   ██║██║     █████╔╝ ██║     ███████║     ║
+║  ██╔══██╗██║     ██║   ██║██║     ██╔═██╗ ██║     ██╔══██║     ║
+║  ██████╔╝███████╗╚██████╔╝╚██████╗██║  ██╗╚██████╗██║  ██║     ║
+║  ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝     ║
+║            [ CHAIN :: VERIFIED ] [ NODE :: ONLINE ]             ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+### `> whoami`
+**Elan Musonye** — Full-Stack Engineer · Web3 Architect · Fintech Systems Builder
+
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://bitcoin.org)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com)
+[![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)](https://web3js.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
+
+</div>
 
 ---
 
-### 🚀 Technical Overview
-I specialize in bridging modern frontend experiences (Next.js/React) with robust backend logic (Node.js/PHP) and secure infrastructure (CCNA). My work focuses on high-concurrency systems, decentralized finance (Solana/TRON), and seamless fintech integrations (M-Pesa).
+## `> cat /etc/motd`
 
-- 🔭 **Current Focus:** Optimizing automated wagering ecosystems and headless e-commerce.
-- ⚡ **Core Strength:** Building "Value-Exchange" systems where security and transaction atomicity are non-negotiable.
-- 🔒 **Note:** Much of my professional work is hosted in private repositories for client confidentiality. Summaries and live links are provided below.
+> *"I specialize in building **Value-Exchange Systems** — where every satoshi is accounted for, every transaction is atomic, and every node in the network is hardened."*
+
+My work bridges **high-performance frontend experiences** (Next.js/React) with **battle-tested backend infrastructure** (Node.js/PHP) and **decentralized finance primitives** (Bitcoin Core, Solana, TRON). I think in blockchains, act in microservices, and ship in TypeScript.
+
+- ⛓️ **Current Focus:** Custodial Bitcoin escrow systems & automated DeFi settlement engines
+- ⚡ **Core Strength:** Transaction atomicity, multi-chain wallet handlers, and high-concurrency async architectures
+- 🔒 **Note:** Most client work is in private repos. Live demos and summaries are linked below.
 
 ---
 
-### 🛠 Tech Stack & Tools
+## `> lsblk --protocol`
 
-| Category | Technologies |
+| Layer | Stack |
 | :--- | :--- |
-| **Frontend** | Next.js 15, React 19, TypeScript, Tailwind CSS, CSS Modules |
-| **Backend** | Node.js, PHP, MySQL, Firestore, RESTful APIs |
-| **Web3/Fintech** | Solana Web3.js, TronWeb, M-Pesa Daraja API, SPL Tokens |
-| **Infrastructure** | Linux (Nginx), GitHub Actions (CI/CD), Vercel, CCNA Security |
+| ⛓️ **On-Chain / Web3** | `Bitcoin Core (BIP32/44)` · `Solana Web3.js` · `TronWeb` · `SPL Tokens` |
+| 🖥️ **Frontend** | `Next.js 15` · `React 19` · `TypeScript` · `Tailwind CSS` |
+| ⚙️ **Backend** | `Node.js` · `Express` · `Prisma ORM` · `PHP` · `RESTful APIs` |
+| 🗃️ **Data Layer** | `PostgreSQL` · `MySQL` · `Redis` · `BullMQ` · `Firestore` |
+| 💸 **Fintech** | `M-Pesa Daraja API` · `NCBA Payment Gateway` · `Bitcoin RPC` |
+| 🏗️ **Infrastructure** | `Docker` · `Nginx` · `GitHub Actions (CI/CD)` · `Vercel` · `Render` · `CCNA` |
 
 ---
 
-### 💼 Selected Projects (Professional Work)
+## `> ls -la /projects`
 
-#### 🔐 TransferSafe | Bitcoin Digital Asset Escrow
-*   **Challenge:** Building a custodial Bitcoin escrow marketplace for secure digital asset transactions with strict transactional integrity.
-*   **Solution:** Architected a robust Node.js backend integrated with a Bitcoin Core node and a custom HD Wallet for secure, automated escrow release mechanisms.
-*   **Tech:** Next.js 15, Node.js (Express), Prisma, PostgreSQL, Bitcoin Core. [Live Site](https://trans.appogealtechlabs.com)
+### 🔐 `TransferSafe` — Bitcoin Custodial Escrow Marketplace
+> **Problem:** Peer-to-peer digital asset transfers are ridden with fraud and irreversibility risk.
+> **Solution:** A fully custodial escrow engine powered by a Bitcoin Core node, HD Wallet (BIP32/44) derivation, and Socket.IO-driven real-time order state management.
 
-#### 🎮 GNG Platform | Lead Full-Stack Engineer
-*   **Challenge:** Synchronizing real-time match states and automating prize disbursements for a competitive wagering platform.
-*   **Solution:** Built a real-time event system using Firebase and engineered a multi-chain wallet handler (Solana/TRON) for automated "sweep" jobs and payouts.
-*   **Tech:** Next.js, Web3.js, Firebase Admin SDK. [Live Site](https://gng.appogealtechlabs.com/challenges)
-
-#### ☀️ Sunleaf Technologies | Full-Stack Developer
-*   **Challenge:** Developing a headless commerce engine to manage complex solar inventory with real-time Kenyan payment processing.
-*   **Solution:** Integrated M-Pesa Daraja API with asynchronous callback handling and architected a custom inventory management system for **300+ specialized products**.
-*   **Tech:** Next.js, PHP, M-Pesa API, MySQL. [Live Site](https://sunleaftechnologies.co.ke)
-
-#### 🧠 Stand Out for Mental Health | Web Developer
-*   **Challenge:** Modernizing the digital presence of a mental health advocacy organization to improve SEO and user privacy.
-*   **Solution:** Rebuilt the platform using Next.js for high performance (Lighthouse score 95+) and implemented secure, encrypted data intake forms.
-*   **Tech:** Next.js, Static Site Generation (SSG), Secure Forms. [Live Site](https://standout4mentalhealth.org)
+```
+Stack: Next.js 15 · Express · Prisma · PostgreSQL · Bitcoin Core · Redis · BullMQ
+```
+[![Live](https://img.shields.io/badge/LIVE-trans.appogealtechlabs.com-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://trans.appogealtechlabs.com)
 
 ---
 
-### 📊 Activity & Consistency
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elanwalton&theme=radical)
+### 🎮 `GNG Platform` — Multi-Chain Wagering Engine
+> **Problem:** Real-time prize disbursements across multiple blockchains with zero settlement lag.
+> **Solution:** Multi-chain wallet handler (Solana/TRON) with automated sweep jobs, Firebase real-time events, and a zero-downtime payout pipeline.
 
-![Elan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elanwalton&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elanwalton&layout=compact&theme=radical&hide_border=true)
+```
+Stack: Next.js · Solana Web3.js · TronWeb · Firebase Admin SDK
+```
+[![Live](https://img.shields.io/badge/LIVE-gng.appogealtechlabs.com-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://gng.appogealtechlabs.com/challenges)
 
 ---
 
-### 📫 Let's Connect
-- **Email:** elanwalton@gmail.com
-- **GitHub:** [elanwalton](https://github.com/elanwalton)
-- **Portfolio:** [appogealtechlabs.com](https://appogealtechlabs.com)
+### ☀️ `Sunleaf Technologies` — M-Pesa Headless Commerce
+> **Problem:** Managing 300+ specialized solar products with real-time Kenyan M-Pesa STK push payments.
+> **Solution:** Async IPN callback handler, custom inventory engine, and a high-performance headless storefront.
+
+```
+Stack: Next.js · PHP · M-Pesa Daraja API · MySQL
+```
+[![Live](https://img.shields.io/badge/LIVE-sunleaftechnologies.co.ke-00A651?style=for-the-badge&logo=shopify&logoColor=white)](https://sunleaftechnologies.co.ke)
+
+---
+
+### 🧠 `Stand Out for Mental Health` — High-Performance Advocacy Platform
+> **Problem:** Outdated digital presence hurting SEO and user trust for a mental health advocacy org.
+> **Solution:** Next.js SSG rebuild achieving Lighthouse **95+**, encrypted data intake forms, and full GDPR-conscious data handling.
+
+```
+Stack: Next.js · SSG · Secure Forms
+```
+[![Live](https://img.shields.io/badge/LIVE-standout4mentalhealth.org-3B82F6?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://standout4mentalhealth.org)
+
+---
+
+## `> htop --metrics`
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=elanwalton&theme=dark&hide_border=true&background=0D1117&stroke=F7931A&ring=F7931A&fire=FF6B35&currStreakLabel=F7931A&sideLabels=9945FF&dates=8B8B8B)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elanwalton&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F7931A&icon_color=9945FF&text_color=C9D1D9&ring_color=F7931A)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elanwalton&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F7931A&text_color=C9D1D9&langs_count=8)
+
+</div>
+
+---
+
+## `> ping /contact`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/elanwalton@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elanwalton@gmail.com)
+[![GitHub](https://img.shields.io/badge/@elanwalton-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elanwalton)
+[![Portfolio](https://img.shields.io/badge/appogealtechlabs.com-F7931A?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://appogealtechlabs.com)
+
+```
+[HANDSHAKE COMPLETE] :: Keys exchanged :: Awaiting collaboration...
+```
+
+</div>
